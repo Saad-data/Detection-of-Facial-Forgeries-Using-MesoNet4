@@ -1,2 +1,2 @@
-# Detection-of-Facial-Video-Forgeries-Using-a-Condensed-MesoNet
+# Detection of Facial Video Forgeries Using a Condensed-MesoNet
 This project focuses on identifying deepfakes through the application of various machine learning and deep learning techniques. By utilizing a range of models trained on specialized datasets, we aim to detect facial video forgeries effectively. To evaluate the accuracy of these models, we perform a comparative analysis using a test dataset that includes both altered and unaltered images.
